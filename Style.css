@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url('SATOSHI SQUAD/giphy4.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+main {
+    background-color: #2aa9a3;
+}
+
+footer {
+    background-color: #00524e;
+}
+
+
+
